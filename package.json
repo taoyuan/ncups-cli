@@ -1,0 +1,30 @@
+{
+  "name": "ncups-cli",
+  "version": "0.1.0",
+  "description": "ncups cli",
+  "license": "MIT",
+  "repository": "taoyuan/ncups-cli",
+  "author": {
+    "name": "Yuan Tao",
+    "email": "towyuan@outlook.com",
+    "url": "github.com/taoyuan"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "bin": {
+    "ncups": "bin/ncups.js"
+  },
+  "scripts": {},
+  "keywords": [
+    "cups"
+  ],
+  "dependencies": {
+    "caporal": "^0.6.0",
+    "cli-color": "^1.2.0",
+    "inquirer": "^3.1.0",
+    "loading-indicator": "^2.0.0",
+    "lodash": "^4.17.4",
+    "ncups": "latest"
+  }
+}
