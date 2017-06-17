@@ -16,4 +16,4 @@ __TBD__
 
 ## License
 
-MIT © [陶源](https://github.com/taoyuan)
+MIT © [Yuan Tao](https://github.com/taoyuan)
