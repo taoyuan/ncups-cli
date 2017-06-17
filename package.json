@@ -1,7 +1,7 @@
 {
   "name": "ncups-cli",
   "version": "0.1.0",
-  "description": "ncups cli",
+  "description": "command line tools",
   "license": "MIT",
   "repository": "taoyuan/ncups-cli",
   "author": {

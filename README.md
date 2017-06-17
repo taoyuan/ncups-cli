@@ -1,43 +1,17 @@
 # ncups-cli [![Build Status](https://travis-ci.org/taoyuan/ncups-cli.svg?branch=master)](https://travis-ci.org/taoyuan/ncups-cli)
 
-> ncups cli
+> ncups command line tools
 
 
 ## Install
 
 ```
-$ npm install ncups-cli
+$ npm install ncups-cli -g
 ```
-
 
 ## Usage
 
-```js
-const ncupsCli = require('ncups-cli');
-
-ncupsCli('unicorns');
-//=> 'unicorns & rainbows'
-```
-
-
-## API
-
-### ncupsCli(input, [options])
-
-#### input
-
-Type: `string`
-
-Lorem ipsum.
-
-#### options
-
-##### foo
-
-Type: `boolean`<br>
-Default: `false`
-
-Lorem ipsum.
+__TBD__
 
 
 ## License
