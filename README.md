@@ -1,4 +1,4 @@
-# ncups-cli [![Build Status](https://travis-ci.org/taoyuan/ncups-cli.svg?branch=master)](https://travis-ci.org/taoyuan/ncups-cli)
+# ncups-cli [![Build Status](https://travis-ci.org/taoyuan/ncups-cli.svg?branch=master)](https://travis-ci.org/taoyuan/ncups-cli) [![Greenkeeper badge](https://badges.greenkeeper.io/taoyuan/ncups-cli.svg)](https://greenkeeper.io/)
 
 > ncups command line tools
 
